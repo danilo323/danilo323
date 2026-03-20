@@ -34,9 +34,8 @@ Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y esc
 - 🎮 Fan de la serie **Resident Evil** y la filosofía **Absurdista**.
 
 ## 📫 Conéctate conmigo
-- 💼 **LinkedIn:** [Tu Nombre Real Aquí](https://linkedin.com/in/TU_USUARIO)
-- 📧 **Email:** [tu-correo@ejemplo.com]
+- 📧 **Email:** [odat2017@hotmail.com]
 
 ---
 
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." – *Cory House*
+> "Si puedes iamginarlo puedes programarlo." – *Cory House*
