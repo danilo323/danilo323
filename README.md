@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola, soy Danilo Angulo! 👋 🇪🇨
 
-<!--
-**danilo323/danilo323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer | Python & JavaScript Enthusiast
 
-Here are some ideas to get you started:
+Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y escalables. Actualmente, estoy liderando el desarrollo de **EcuaTrade-System**, una plataforma que conecta la tecnología con los sectores productivos del Ecuador. Me apasiona el código limpio, la arquitectura de software y aprender nuevas tecnologías cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+### **Backend & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+### **Frontend & Frameworks**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de Danilo](https://github-readme-stats.vercel.app/api?username=danilo323&show_icons=true&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo323&layout=compact&theme=tokyonight)
+
+---
+
+## 🔭 Proyectos Actuales
+- 🛒 **EcuaTrade-System:** Sistema de comercio electrónico para productos agrícolas y tecnológicos (Python/Django).
+- 🌱 Perfeccionando mis habilidades en **Arquitectura de Microservicios**.
+- 🎮 Fan de la serie **Resident Evil** y la filosofía **Absurdista**.
+
+## 📫 Conéctate conmigo
+- 💼 **LinkedIn:** [Tu Nombre Real Aquí](https://linkedin.com/in/TU_USUARIO)
+- 📧 **Email:** [tu-correo@ejemplo.com]
+
+---
+
+> "El código es como el humor. Cuando tienes que explicarlo, es malo." – *Cory House*
