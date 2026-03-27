@@ -23,7 +23,7 @@ Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y esc
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de Danilo](https://github-readme-stats.vercel.app/api?username=danilo323&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de Danilo](https://github-readme-stats.vercel.app/api?username=danilo323&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo323&layout=compact&theme=tokyonight)
 
 ---
