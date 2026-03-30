@@ -31,7 +31,6 @@ Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y esc
 ## 🔭 Proyectos Actuales
 - 🛒 **EcuaTrade-System:** Sistema de comercio electrónico para productos agrícolas y tecnológicos (Python/Django).
 - 🌱 Perfeccionando mis habilidades en **Arquitectura de Microservicios**.
-- 🎮 Fan de la serie **Resident Evil** y la filosofía **Absurdista**.
 
 ## 📫 Conéctate conmigo
 - 📧 **Email:** [odat2017@hotmail.com]
