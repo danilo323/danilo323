@@ -23,9 +23,17 @@ Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y esc
 ---
 
 ## 📈 Estadísticas de GitHub
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danilo323&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo323&layout=compact&theme=tokyonight)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=danilo323&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 💻 Lenguajes Más Usados
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nodejs,html,css&theme=dark&perline=8" />
+  </a>
+</p>
 ---
 
 ## 🔭 Proyectos Actuales
